@@ -1,33 +1,37 @@
-# AI in Actions
+<div align="center">
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+# 🎉 Congratulations djc1arke! 🎉
 
-Hey djc1arke!
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+### 🌟 You've successfully completed the exercise! 🌟
 
-Remember, it's self-paced so feel free to take a break! ☕️
+## 🚀 Share Your Success!
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/djc1arke/skills-ai-in-actions/issues/1)
+**Show off your new skills and inspire others!**
 
-## Running Ask AI
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22AI%20in%20Actions%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdjc1arke%2Fskills-ai-in-actions%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22AI%20in%20Actions%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdjc1arke%2Fskills-ai-in-actions%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22AI%20in%20Actions%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fdjc1arke%2Fskills-ai-in-actions%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-[GitHub Models retired on July 30, 2026](https://docs.github.com/en/github-models),
-so the Ask AI workflow now uses the Copilot CLI provider of `actions/ai-inference`.
-The original exercise's GitHub Models instructions no longer apply to this workflow.
+### 🎯 What's Next?
 
-Before running it, create a fine-grained personal access token for an account with
-Copilot access, granting the **Copilot Requests** permission. Save it as the
-`COPILOT_PAT` repository secret under **Settings → Secrets and variables → Actions**.
-The built-in `GITHUB_TOKEN` is not sufficient for Copilot authentication in this
-user-owned repository. The Issue Completeness workflow uses this same secret to
-analyze and comment on newly opened issues. See the
-[Copilot CLI authentication instructions](https://docs.github.com/en/copilot/how-tos/copilot-cli/automate-copilot-cli/automate-with-actions#authenticate).
+**Keep the momentum going!**
 
-Then run **Ask AI** manually from the **Actions** tab. The workflow installs the CLI
-and writes the programming joke to the run summary without granting Copilot tools
-access to the repository.
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/djc1arke/skills-ai-in-actions/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
+
+*There's no better way to learn than building things!* 🚀
+
+</div>
 
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
