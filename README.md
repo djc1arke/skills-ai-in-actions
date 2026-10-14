@@ -20,7 +20,8 @@ Before running it, create a fine-grained personal access token for an account wi
 Copilot access, granting the **Copilot Requests** permission. Save it as the
 `COPILOT_PAT` repository secret under **Settings → Secrets and variables → Actions**.
 The built-in `GITHUB_TOKEN` is not sufficient for Copilot authentication in this
-user-owned repository. See the
+user-owned repository. The Issue Completeness workflow uses this same secret to
+analyze and comment on newly opened issues. See the
 [Copilot CLI authentication instructions](https://docs.github.com/en/copilot/how-tos/copilot-cli/automate-copilot-cli/automate-with-actions#authenticate).
 
 Then run **Ask AI** manually from the **Actions** tab. The workflow installs the CLI
